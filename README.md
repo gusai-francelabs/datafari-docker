@@ -12,4 +12,4 @@ Running Datafari
 
 Run the following command to start Datafari:
 
-    docker run -d -p 8080:8080 datafari/datafariv2
+    docker run -d -p 8080:8080 -p8983:8983 datafari/datafariv2
